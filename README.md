@@ -1,6 +1,6 @@
 # Project Title
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This application collects user data and sorts through available loans.
 
 ---
 
@@ -9,8 +9,10 @@ Just after the title, introduce your project by describing attractively what the
 This is a Python file using the Fire and Questionary libraries.  The documentation for fire and Questionary are provided here:
 
 [Fire](https://google.github.io/python-fire/)
+
 Fire is used to simplify the command line interface.
 [Questionary](https://questionary.readthedocs.io/en/stable/index.html)
+
 Questionary is used to simplify user input during command line operation.
 
 ---
